@@ -1,5 +1,8 @@
 # 💫 About Me:
-Atualmente trabalhando em projetos pessoais.<br>Estou me aprimorando cada vez mais em linguagens usadas no frontend como JS, React, VueJS, Angular dentre outras<br>Será um prazer coloborar com novos projetos na parte de frontend e backend<br>Contate-me pelo e-mail j.matheusalbuquerque1@gmail.com
+Currently working on personal projects.
+I am improving myself more and more in languages ​​used in the frontend such as JS, React, VueJS, Angular among others
+It will be a pleasure to collaborate with new projects in the frontend and backend
+Contact me by email j.matheusalbuquerque1@gmail.com
 
 
 ## 🌐 Socials:
